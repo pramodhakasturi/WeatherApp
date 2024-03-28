@@ -14,4 +14,5 @@ Javascript
 OpenWeatherMap API
 
 # Hosted Link
-Weather App - github
+
+https://pramodhakasturi.github.io/WeatherApp/
